@@ -18,8 +18,7 @@ class _DictionaryPageState extends State<DictionaryPage> {
       _response = '';
     });
 
-    final String apiKey =
-        'AIzaSyAQFSRUJQcJuMmusR0fCEeD0HyFbnlonx8'; // Replace with your API key
+    final String apiKey = 'GOOGLE API KEY'; // Replace with your API key
     final url = Uri.parse(
         'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=$apiKey');
 
