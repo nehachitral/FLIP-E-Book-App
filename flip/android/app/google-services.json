@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524021897040",
+    "project_id": "e-book-ea360",
+    "storage_bucket": "e-book-ea360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524021897040:android:99438c27a4e86f30d97e55",
+        "android_client_info": {
+          "package_name": "com.example.flip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o77_W5EVvR7EMUPisditkhr1DgElVqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

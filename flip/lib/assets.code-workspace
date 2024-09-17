@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../FLIP-TEST/flip/assets"
+		},
+		{
+			"name": "flip",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
