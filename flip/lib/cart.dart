@@ -46,13 +46,13 @@ class _CartPageState extends State<CartPage> {
 
   void checkout() {
     var options = {
-      'key': 'rzp_test_KHSxiK6Xx5mTJH', // Replace with your Razorpay API key
+      'key': '', // Replace with your Razorpay API key
       'amount': getTotalPrice() *
           100, // Amount is in the smallest currency unit (e.g., paisa for INR)
       'name': 'FLIP',
       'description': 'Payment for cart items',
       'prefill': {
-        'contact': '7899162308', // Replace with actual contact
+        'contact': '', // Replace with actual contact
         'email': 'nehac.cs22@bmsce.ac.in', // Replace with actual email
       },
       'external': {
